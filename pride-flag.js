@@ -121,12 +121,12 @@ class PrideFlagComponent extends HTMLElement {
         <div class="pride-flag__stripe pride-flag__stripe--purple"></div>
 
         <img 
-          src="https://pouch.jumpshare.com/preview/MLq0tB5pt6T6eAdhcz_Jow5aiq5GGqnpDis59hLrfbfMuSwiywHSETNGoFrpG0aHauPLDK5RCZmYhfIyTC8xMpBop1nO34SKAZZAbjMh7wY" 
+          src="intersex-arrow.svg" 
           alt="Progress Pride Flag" 
           class="pride-flag__overlay pride-flag__overlay--left" 
         />
         <img 
-          src="https://pouch.jumpshare.com/preview/MLq0tB5pt6T6eAdhcz_Jow5aiq5GGqnpDis59hLrfbfMuSwiywHSETNGoFrpG0aHauPLDK5RCZmYhfIyTC8xMpBop1nO34SKAZZAbjMh7wY" 
+          src="intersex-arrow.svg" 
           alt="Progress Pride Flag" 
           class="pride-flag__overlay pride-flag__overlay--right" 
         />
